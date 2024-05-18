@@ -66,7 +66,7 @@ description: "The LineageOS Wiki"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://wiki.lineageos.org
+url: https://garnet-playground.github.io
 
 plugins:
   - jekyll-redirect-from
